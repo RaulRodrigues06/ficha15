@@ -1,0 +1,16 @@
+.cards1{
+    position: relative;
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+    font-family: consolas;
+}
+.cards1 .box{
+    position: relative;
+    width: 280px;
+    height: 400px;
+    margin: 20px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.5);
+}
