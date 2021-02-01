@@ -84,19 +84,3 @@
     transform: translateY(0);
     transition-delay: 0.9s;
 }
-.cards2{
-    width: 1200px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    grid-gap: 5px;
-    margin: 50px 0;
-    font-family: consolas;
-}
-.cards2 .box2{
-    position: relative;
-    width: 280px;
-    height: 400px;
-    margin: 0 auto;
-    background: #fff;
-    box-shadow: 5px 5px 15px rgba(0,0,0,.5);
-}
